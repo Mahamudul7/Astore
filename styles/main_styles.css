@@ -1598,11 +1598,7 @@ section
 {
 	font-size: 14px !important;
 	font-weight: 400;
-	color: #b9b4c7 !important;
-}
-.newsletter_submit_btn
-{
-	width: 160px;
+	color: #b9b4c7 !
 	height: 46px;
 	border: none;
 	background: #fe4c50;
@@ -1684,3 +1680,4 @@ section
 {
 	color: #fe4c50;
 }
+
